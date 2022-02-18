@@ -11425,6 +11425,7 @@ header.masthead .masthead-subheading {
 }
 
 header.masthead .masthead-heading {
+    -webkit-text-stroke: 0.01rem white;
     color: #ffc800;
     font-size: 2rem;
     font-weight: 400;
